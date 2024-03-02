@@ -22,7 +22,7 @@ Teleworking and telecommuting both refer to remote work that employees perform. 
 
 
 
-Praca zdalna
+## Praca zdalna
 
 + Sprzęt
 + Komunikacja
@@ -30,11 +30,21 @@ Praca zdalna
 
 + Oprogramowanie
 
-Elementy Biura Mobilnego
+
+
+## Elementy Biura Mobilnego
+
 + Biurko
 + Kontenery Militarity
 + 
 
 
-Biuro stacjonarne
+## Biuro stacjonarne
++ oświetlenie
++ doświetlenie
 + 
+
+
+## Biuro w pojazdach
+
+
